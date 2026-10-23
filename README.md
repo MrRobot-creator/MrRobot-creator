@@ -1,8 +1,8 @@
 <!-- 👋 Bem‑vindo ao meu perfil do GitHub -->
 # 🚀 <Matheus Nobre>
 
-> *Bio:* Engenheiro de Software | Apaixonado por React, TypeScript & DevOps  
-> *Localização:* <City, Country>  
+> *Bio:* Desenvolvedor Full Stack Python | React, TypeScript & DevOps  
+> *Localização:* <Belém,Pará>  
 > *Website:* <https://matheus-nobre-portfolio.vercel.app/>  
 > *Contato:* <matheusnsenado6@gmail.com> 
 > *Publicado em:* 2026‑10‑23  
