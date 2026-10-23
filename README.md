@@ -33,7 +33,7 @@
 
 <!-- Badges de Redes Sociais (Substitua os links pelos seus) -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mv_nobrs)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheusnsenado6@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheus:matheusnsenado6@gmail.com)
 
 ---
 
